@@ -17,3 +17,8 @@ console.log(arr);
 var array = 20
 
 var two = 30
+
+console.log(
+)
+
+console.log()
